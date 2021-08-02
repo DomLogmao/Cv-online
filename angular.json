@@ -30,23 +30,23 @@
               "src/styles.css"
             ],
             "scripts": [
-              "assets/js/vendor/jquery-1.12.0.min.js",
-              "assets/js/plugins.js",
-              "assets/js/Popper.js",
-              "assets/js/bootstrap.min.js",
-              "assets/js/jquery.magnific-popup.min.js",
-              "assets/js/owl.carousel.min.js",
+              "src/assets/js/vendor/jquery-1.12.0.min.js",
+              "src/assets/js/plugins.js",
+              "src/assets/js/Popper.js",
+              "src/assets/js/bootstrap.min.js",
+              "src/assets/js/jquery.magnific-popup.min.js",
+              "src/assets/js/owl.carousel.min.js",
 
-              "assets/js/isotope.pkgd.min.js",
-              "assets/js/imagesloaded.pkgd.min.js",
-              "assets/js/animation-headline.js",
-              "assets/js/jquery.appear.js",
-              "assets/js/jquery.barfiller.js",
-              "assets/js/menu.js",
+              "src/assets/js/isotope.pkgd.min.js",
+              "src/assets/js/imagesloaded.pkgd.min.js",
+              "src/assets/js/animation-headline.js",
+              "src/assets/js/jquery.appear.js",
+              "src/assets/js/jquery.barfiller.js",
+              "src/assets/js/menu.js",
 
-              "assets/js/gmaps.js",
-              "assets/js/main.js",
-              "assets/js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"
+              "src/assets/js/gmaps.js",
+              "src/assets/js/main.js",
+              "src/assets/js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"
             ]
           },
           "configurations": {
